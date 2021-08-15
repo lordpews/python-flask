@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/worstpage",
+    "prod_uri":"mysql://root:@localhost/worstpage",
+    "fb_url":"https://twitter.com/lordpews",
+    "tw_url":"https://twitter.com/lordpews",
+    "gh_url": "https://github.com/lordpews",
+    "blog_name": "blog made by a blog made by a blog",
+    "tag_line": "not a blog",
+    "gmail-user":"piyushthakur775001@gmail.com",
+    "gmail-password":"mcocnoob1234"
+  }
+}
